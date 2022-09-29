@@ -34,11 +34,6 @@ Designed the clone with the static features within the stipulated time. Used and
 https://user-images.githubusercontent.com/105907169/192888498-ed03860b-4c1e-406b-8f32-fe45261b73f3.mp4
 
 
-## Deployment Link
----  : fabulous-kleicha-168593.netlify.app/
-
-
-
 ## Screenshots
 
 - **Home Page**
