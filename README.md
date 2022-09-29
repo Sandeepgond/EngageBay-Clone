@@ -115,7 +115,7 @@ Don't forget to give the project a star! Thanks again!
 
 - [@Rahul Rathod](https://www.github.com/rahulrathore2110)
 - [@Deepti Bagel](https://www.github.com/dipti1144)
-- [@Tejas Medade}(https://github.com/TejasMedade)
+- [@Tejas Medade](https://github.com/TejasMedade)
 
 ## Acknowledgements
 
